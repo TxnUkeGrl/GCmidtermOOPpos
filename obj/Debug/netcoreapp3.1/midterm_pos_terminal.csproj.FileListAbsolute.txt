@@ -1,0 +1,13 @@
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.exe
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.deps.json
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.runtimeconfig.json
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.runtimeconfig.dev.json
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.dll
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\bin\Debug\netcoreapp3.1\midterm_pos_terminal.pdb
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.csprojAssemblyReference.cache
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.AssemblyInfoInputs.cache
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.AssemblyInfo.cs
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.csproj.CoreCompileInputs.cache
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.dll
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.pdb
+D:\GCProjects\midterm_pos_terminal\midterm_pos_terminal\obj\Debug\netcoreapp3.1\midterm_pos_terminal.genruntimeconfig.cache

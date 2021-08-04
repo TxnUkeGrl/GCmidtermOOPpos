@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "midterm_pos_terminal/1.0.0": {
+        "runtime": {
+          "midterm_pos_terminal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "midterm_pos_terminal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
